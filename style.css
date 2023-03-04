@@ -1,0 +1,62 @@
+body {
+    background-color: hsl(240, 50%,47%);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#title {
+    color: white;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#description {
+color: white;
+text-align: center;
+size: 40px;
+}
+
+#survey {
+    background-color: hsl(240, 100%, 10%);
+    color: white;
+    margin: 10px auto;
+    padding-right: 20px;
+    padding-top: 20px;
+    width: 55%;
+}
+
+input{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#valve {
+    margin: 20px;
+}
+
+#name, #email, #number {
+    width: 90%;
+    height: 20px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#drop, #dropdown {
+    padding: 10px;
+    /* padding-right: 8%; */
+    width: 94%;
+    border-radius: 10px;
+}
+
+#submit{
+    width: 80%;
+    background-color: hsl(120, 100%, 80%);
+    padding: 10px;
+    margin: 10px, 0px, 40px, 0px;
+}
+
+textarea {
+    padding: 10px;
+    margin: 10px 0px 10px 0px;
+    width: 80%;
+}
+
